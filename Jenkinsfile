@@ -8,7 +8,7 @@ pipeline {
 		stage ("stage-1") {
 
 			steps {
-				 echo " hi everyone "	
+				 echo " 23Q2 "	
 					
 
 			}				
